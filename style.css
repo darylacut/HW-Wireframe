@@ -27,6 +27,30 @@ body {
     width: 495px;
     text-align: center;
     margin: 8px;
+    border-style: solid;
+    border-color: #ebebeb;
+    border-width: 10px;
+}
+
+.article {
+    color: #ebebeb;
+    background: #777;
+    text-align: center;
+    padding: 10px;
+    border-style: solid;
+    border-color: #ebebeb;
+}
+
+.inArticle1 {
+    background: #ebebeb;
+    text-align: center;
+    margin: 8px;
+}
+
+.inArticle2 {
+    background: #ebebeb;
+    text-align: center;
+    margin: 8px;
 }
 
 .aside {
@@ -34,7 +58,7 @@ body {
     background: #ebebeb;
     width: 495px;
     text-align: center;
-    margin: 8px;
+    height: 350px;
 }
 
 .footer {
@@ -45,11 +69,6 @@ body {
     margin: 8px;
 }
      
-.article {
-    color: #ebebeb;
-    background: #777;
-    text-align: center;
-}
      
 h1 {
     color: #777;
