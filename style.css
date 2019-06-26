@@ -69,7 +69,8 @@ p {
     background: #ebebeb;
     width: 400px;
     text-align: center;
-    height: 350px;
+    height: 318px;
+    margin: 8px;
 }
 
 .footer {
