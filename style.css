@@ -4,8 +4,19 @@ body {
     background: #777;
     width: 960px;
     font-size: 18px;
-    
 }
+     
+h1 {
+    color: #777;
+    background: #ebebeb;
+}
+    
+p {
+    color: #777;
+    background: #ebebeb;
+}
+
+
     
 .header {
     background: #ebebeb;
@@ -69,14 +80,5 @@ body {
     margin: 8px;
 }
      
-     
-h1 {
-    color: #777;
-    background: #ebebeb;
-}
 
-p {
-    color: #777;
-    background: #ebebeb;
-}
 
