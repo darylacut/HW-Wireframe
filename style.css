@@ -65,9 +65,9 @@ p {
 }
 
 .aside {
-    display: inline;
+    float: right;
     background: #ebebeb;
-    width: 495px;
+    width: 400px;
     text-align: center;
     height: 350px;
 }
