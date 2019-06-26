@@ -4,32 +4,45 @@ body {
     background: #777;
     width: 960px;
     font-size: 18px;
+    
 }
     
 .header {
     background: #ebebeb;
     text-align: center;
+    padding: 5px;
+    margin: 8px;
 }
 
 .nav {
     background: #ebebeb;
     text-align: center;
+    padding: 5px;
+    margin: 8px;
 
 }
 .sectionParent {
+    float: left;
     background: #ebebeb;
     width: 495px;
     text-align: center;
+    margin: 8px;
 }
 
 .aside {
+    display: inline;
     background: #ebebeb;
+    width: 495px;
     text-align: center;
+    margin: 8px;
 }
 
 .footer {
+    display: block;
     background: #ebebeb;
     text-align: center;
+    padding: 5px;
+    margin: 8px;
 }
      
 .article {
